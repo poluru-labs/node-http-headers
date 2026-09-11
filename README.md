@@ -1,4 +1,4 @@
-# node-http-headers
+# modern node-http-headers 
 
 A lightweight Node.js module for managing common HTTP response headers in Express applications. It helps you add consistent CORS and JSON response settings with minimal setup.
 
